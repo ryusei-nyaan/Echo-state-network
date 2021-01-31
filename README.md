@@ -3,4 +3,4 @@ This is one of reservoir computing methods.
 
 ###### Julia version = 1.5.1 
 
-### Developing
+### Developing and modifying now.
